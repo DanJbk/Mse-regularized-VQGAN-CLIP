@@ -1,5 +1,5 @@
 # Mse-regularized-VQGAN-CLIP
-The VQGAN-CLIP method for generating images with L2 regularization for more coherent outputs and EMA on the Z vector for better accuracy.
+The VQGAN-CLIP method for generating images with L2 regularization for more coherent outputs and applied EMA on the Z vector for better accuracy.
 
 Samples:
 
